@@ -1,5 +1,7 @@
 [![An image of @freemrl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/freemrl)](https://holopin.io/@freemrl)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!--
 **FreemRL/FreemRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
